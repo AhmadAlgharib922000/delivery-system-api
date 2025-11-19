@@ -1,0 +1,7 @@
+{
+  "name": "delivery-system/api",
+  "description": "Delivery API on Render",
+  "require": {
+    "php": ">=8.0"
+  }
+}

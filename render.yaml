@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: delivery-api
+    env: php
+    region: frankfurt
+    buildCommand: ""
+    startCommand: "php -S 0.0.0.0:10000 index.php"
